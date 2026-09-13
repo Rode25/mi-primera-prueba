@@ -12,7 +12,7 @@ El reporte interactivo incluye las siguientes páginas y visualizaciones clave:
 
 ## 📸 Capturas de Pantalla
 
-*(Arrastra y suelta aquí las imágenes de tu reporte para que se muestren en GitHub)*
+* <img width="1321" height="732" alt="image" src="https://github.com/user-attachments/assets/294dff07-dc14-4d14-965f-ac5a0d3c4c2a" />
 
 ## 📁 Archivos en el Repositorio
 
@@ -22,4 +22,4 @@ El reporte interactivo incluye las siguientes páginas y visualizaciones clave:
 
 * Power BI Desktop
 * GitHub
-* <img width="1321" height="732" alt="image" src="https://github.com/user-attachments/assets/294dff07-dc14-4d14-965f-ac5a0d3c4c2a" />
+
